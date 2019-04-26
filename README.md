@@ -1,11 +1,13 @@
 # SIM900A-AT-A-GPS-Arduino-ThingSpeak
 Simple Low Cost SIM900A based A-GPS tracker for Quick PoC's
 
+*************
 
-For now location coordinates are hard coded, but in the serial monitor you get actual coordinates.
+### For now location coordinates are hard coded, but in the serial monitor you get actual coordinates.
 
-I'll extract location data using a seperate function and update code.
+### I'll extract location data using a seperate function and update code.
 
+*************
 
 SIM900A Firmware update links
 
